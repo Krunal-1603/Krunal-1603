@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Krunal-1603
 - 🌱 I’m currently learning ...MCA & AWS
 - 📫 How to reach me ...krunaljadahv1603@gmail.com
-- 😄 Pronouns: ...Krunal
-- 📍 Location:...Pune
+- 📍 Location:...Pune,Maharashtra
 
 
 <!---
